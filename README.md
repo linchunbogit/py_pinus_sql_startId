@@ -1,0 +1,2 @@
+# py_pinus_sql_startId
+python写的修改pinus的数据库起始id
